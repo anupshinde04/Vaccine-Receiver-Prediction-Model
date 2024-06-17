@@ -14,4 +14,4 @@ In this multi label classification problem, I have made predictions using 3 mode
 
 Each model gave ROC AUC score in range 0.84 ± 0.03
 
-The test prediction(submission_format.csv) mentioned in this repository is of random forest model which gave maximum ROC AUC score.
+The test prediction(submission_format.csv) mentioned in this repository is of random forest model which gave the best ROC AUC score.
